@@ -1,5 +1,6 @@
 # networkwalks-B084H-week1-Cybersecurity-lab-setup
-##📌 Project Overview
+## 📌 PROJECT OVERVIEW
+
 This project focuses on setting up a Kali Linux virtual machine using Oracle VirtualBox for cybersecurity lab activities, including VM configuration, network setup, shared folder configuration, and network connectivity testing using Linux commands.
 ## 🛠️ Tools Used
 - Kali Linux
