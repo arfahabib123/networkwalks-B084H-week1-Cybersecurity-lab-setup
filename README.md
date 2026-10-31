@@ -20,8 +20,7 @@ This project focuses on setting up a Kali Linux virtual machine using Oracle Vir
 ip a
 ip route
 ip link
-ping -c 4 8.8.8.8
-ping -c 4 google.com
+ping google.com
 whoami
 groups
 ```
